@@ -7,3 +7,4 @@ BOARD_KERNEL_CMDLINE += androidboot.selinux=permissive
 changed to what was in the native recovery and started
 BOARD_KERNEL_CMDLINE := console=ttyS1,115200n8
 BOARD_KERNEL_CMDLINE += buildvariant=user 
+After the build sign for vbmeta
